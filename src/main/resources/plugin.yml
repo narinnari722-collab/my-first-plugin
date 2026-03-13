@@ -1,0 +1,9 @@
+name: iadelerim
+version: 1.0.0
+main: com.iadelerim.IadelerimPlugin
+api-version: '1.21'
+author: codex
+commands:
+  iadelerim:
+    description: Banli oyunculardan item iade menusu acar.
+    usage: /iadelerim
